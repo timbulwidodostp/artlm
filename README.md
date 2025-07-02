@@ -1,6 +1,8 @@
 # artlm
 Approximate Randomization Tests with a Small Number of Clusters Use artlm (rART) With (In) R Software
 
+https://www.youtube.com/watch?v=uMW_9XzvNTI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
